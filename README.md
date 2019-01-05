@@ -1,2 +1,2 @@
 # coursera_datascience
-This repository contains notes on the Coursera Data Science Specialization (JHU)  
+This repository contains notes and programming codes used in Coursera Data Science Specialization Course (JHU).
